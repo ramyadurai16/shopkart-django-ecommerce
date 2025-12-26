@@ -124,7 +124,7 @@ The application is designed with a clean UI, user-friendly navigation, and scala
 ## ⚙️ Installation & Setup
 
 ```bash
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 git clone https://github.com/ramyadurai16/shopkart-django-ecommerce.git
 cd shopkart-django-ecommerce
@@ -179,6 +179,7 @@ http://127.0.0.1:8000/admin/
 ---
 
 📁 Project Structure
+
 shopkart/
 ├── shop/
 ├── cart/
