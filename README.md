@@ -64,7 +64,7 @@ The application is designed with a clean UI, user-friendly navigation, and scala
  ├── Wishlist Page
  └── Cart Page
 
----
+                         ---
 
 ### 🏠 Home Page & Collections
 - Navbar with categories, search bar, cart, orders, and favourites
