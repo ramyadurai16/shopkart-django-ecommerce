@@ -65,13 +65,17 @@ The application is designed with a clean UI, user-friendly navigation, and scala
   <img src="https://github.com/user-attachments/assets/8d30192e-5cff-4bb6-b090-cebb00cc431e" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a37e9d5f-b11a-46b0-b310-dbd2eef07abb" width="800"/>
+</p>
+
 ---
 
 ### 📦 Orders Page
 - Order history with payment status and total amount
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63057d12-92d4-4700-9fbb-501bac07622f" width="800"/>
+  <img src="https://github.com/user-attachments/assets/e35817bf-cc9c-480d-a5aa-7bea20652c4a" width="800"/>
 </p>
 
 ---
@@ -82,7 +86,7 @@ The application is designed with a clean UI, user-friendly navigation, and scala
 - Download invoice & cancel order option
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ffc4446a-4be9-41f1-b7e6-a59b41e902a3.png" width="800"/>
+  <img src="https://github.com/user-attachments/assets/74cdbee0-494b-4115-82d1-a386e36bf147" width="800"/>
 </p>
 
 ---
@@ -91,7 +95,7 @@ The application is designed with a clean UI, user-friendly navigation, and scala
 - Auto-generated tax invoice with order and customer details
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6170b633-6eb7-44be-92be-05c1c427d394.png" width="700"/>
+  <img src="https://github.com/user-attachments/assets/223ec23c-1ae1-4a73-b473-ab49c8a92b3e" width="700"/>
 </p>
 
 ---
@@ -100,7 +104,7 @@ The application is designed with a clean UI, user-friendly navigation, and scala
 - View and remove favourite products
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edaffe2b-6c82-420a-b086-d97b7cf0cd2c.png" width="800"/>
+  <img src="https://github.com/user-attachments/assets/276580f6-5a5c-4f98-83a6-e3ca4eea63a2" width="800"/>
 </p>
 
 ---
@@ -112,46 +116,49 @@ The application is designed with a clean UI, user-friendly navigation, and scala
 - Checkout option
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e415d31-b486-4074-b937-d60112c1ccdc.png" width="800"/>
+  <img src="https://github.com/user-attachments/assets/c3e39484-1bd2-4554-a4d0-33e952c92302" width="800"/>
 </p>
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
 ```bash
+### 1️⃣ Clone the Repository
+
 git clone https://github.com/ramyadurai16/shopkart-django-ecommerce.git
 cd shopkart-django-ecommerce
 
 
-### 2️⃣ Create Virtual Environment
+2️⃣ Create Virtual Environment
 
 python -m venv env
 env\Scripts\activate
 
-### 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-### 4️⃣ Configure Database
+4️⃣ Configure Database
 
 Create a MySQL database
 
 Update database credentials in settings.py
 
-### 5️⃣ Apply Migrations
+5️⃣ Apply Migrations
 python manage.py makemigrations
 python manage.py migrate
 
-### 6️⃣ Create Superuser
+6️⃣ Create Superuser
 python manage.py createsuperuser
 
-### 7️⃣ Run the Server
+7️⃣ Run the Server
 python manage.py runserver
 
 - Open browser and visit:
 
 http://127.0.0.1:8000/
+```
+---
 
 ## 🔐 Admin Panel
 
@@ -169,6 +176,8 @@ http://127.0.0.1:8000/admin/
 
 - Manage users
 
+---
+
 📁 Project Structure
 shopkart/
 ├── shop/
@@ -178,6 +187,8 @@ shopkart/
 ├── static/
 ├── media/
 ├── manage.py
+
+---
 
 🚀 Future Enhancements
 
@@ -191,6 +202,8 @@ shopkart/
 
 - Cloud deployment (Render / PythonAnywhere)
 
+---
+
 📌 Project Purpose
 
 - This project was developed for:
@@ -201,19 +214,27 @@ shopkart/
 
 - Academic, portfolio, and resume usage
 
+---
+
 🤝 Contribution
 
 - Contributions are welcome.
 - Feel free to fork this repository and submit a pull request.
 
+---
+
 📄 License
 
 This project is created for educational purposes only.
+
+---
 
 👩‍💻 Author
 
 RAMYA DM
 GitHub: https://github.com/ramyadurai16
+
+---
 
 ✅ GitHub Topics
 
@@ -227,4 +248,4 @@ django-ecommerce
 razorpay-integration
 full-stack
 
-```
+---
